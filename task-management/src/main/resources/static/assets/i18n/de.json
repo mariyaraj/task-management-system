@@ -1,0 +1,11 @@
+{
+    "welcomeTitle": "Willkommen bei Ihrem Aufgabenverwaltungssystem",
+    "addTask": "Aufgabe hinzufügen",
+    "createTask": "Aufgabe erstellen",
+    "headerDone": "Erledigt",
+    "headerName": "Name",
+    "headerCreated": "Erstellt",
+    "headerPriority": "Priorität",
+    "headerActions": "Aktionen"
+  }
+  

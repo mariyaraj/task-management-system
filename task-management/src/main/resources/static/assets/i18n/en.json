@@ -1,0 +1,11 @@
+{
+    "welcomeTitle": "Welcome to your task management system",
+    "addTask": "Add Task",
+    "createTask": "Create Task",
+    "headerDone": "Done",
+    "headerName": "Name",
+    "headerCreated": "Created",
+    "headerPriority": "Priority",
+    "headerActions": "Actions"
+  }
+  
